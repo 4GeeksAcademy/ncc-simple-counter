@@ -14,6 +14,6 @@ import SecondsCounter from './components/SecondsCounter';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <SecondsCounter seconds={3434}/>
+    <SecondsCounter seconds={0}/>
   </React.StrictMode>,
 )
